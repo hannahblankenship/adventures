@@ -35,12 +35,10 @@ p{
   margin-bottom: 0.2em;
 }
 nav{
-  background: black;
-  color:white;
   line-height: 2.0;
   text-align: right; 
 }
 .nav-bar{
-  color:white;
+  color:black;
 }
 
